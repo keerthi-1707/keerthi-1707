@@ -4,7 +4,7 @@ Data Science Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <!-- - 🔭 Here's my [portfolio](https://hareesh.web.app/) -->                                            
 - 🌱 I’m currently learning the fundamentals of Deep Learning and experimenting with AI libraries.
-- 🎓 Master's at [<img src="https://www.bdu.ac.in/forms/logo/emp-bmp.bmp" height="24">](https://www.bdu.ac.in/)  
+- 🎓 Master's at [Bharathidasan University](https://www.bdu.ac.in/)  
 - 🎓 BCA Graduate from [<img src="https://aimancollege.edu.in/images/logo/logo.png" height="24">](https://aimancollege.edu.in/)
 
 - ⚡ Fun fact: I know Japanese.
