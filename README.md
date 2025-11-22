@@ -7,9 +7,8 @@ Data Science Student
 - 🎓 Master's at [Bharathidasan University](https://www.bdu.ac.in/)  
 - 🎓 BCA Graduate from [AIMAN College of Arts & Science for Women](https://aimancollege.edu.in/)
 
-- ⚡ Fun fact: I know Japanese.
 - Social Presence
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keerthana77/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/keethu973/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/keerthana77/) <br/>
 
 ### Technologies I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/neon/48/r.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/tensorflow.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/pandas.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/numpy.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/matplotlib.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
